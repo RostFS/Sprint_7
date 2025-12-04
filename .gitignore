@@ -1,0 +1,13 @@
+# Maven
+target/
+
+# Allure CLI (локальная установка)
+.allure/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# OS junk
+.DS_Store
+Thumbs.db
